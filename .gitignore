@@ -1,0 +1,12 @@
+target/
+build/
+*.class
+*.log
+
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+data/
